@@ -1,0 +1,8 @@
+Did not complete the full program
+
+The basic understanding of the concept is there
+
+fine tuning, bugs and stuff would have to be accounted for when fully finished, such as 3dp despite how big / small of a number it is 
+
+could have possibly made this with a gui, and that was the plan, but its kinda really boring
+
